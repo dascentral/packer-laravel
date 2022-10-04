@@ -35,3 +35,9 @@ packer build -var "profile=PROFILE" -var "vault_pass=PASSWORD" laravel.json
 * [Cloudcasts](https://cloudcasts.io/)
 * [Packer](https://www.packer.io/)
 * [Ubuntu Amazon EC2 AMI Locator](https://cloud-images.ubuntu.com/locator/ec2/)
+
+## Roadmap
+
+* Install [Oh My Zsh](https://ohmyz.sh/) and preferred plugins
+* Install [Certbot](https://certbot.eff.org/)
+* Explore what else should come over from [ubuntu-dotfiles](https://github.com/dascentral/ubuntu-dotfiles)
