@@ -38,6 +38,6 @@ packer build -var "profile=PROFILE" -var "vault_pass=PASSWORD" laravel.json
 
 ## Roadmap
 
-* Install [Oh My Zsh](https://ohmyz.sh/) and preferred plugins
-* Install [Certbot](https://certbot.eff.org/)
+* Add [Oh My Zsh](https://ohmyz.sh/) and preferred plugins
+* Add [Certbot](https://certbot.eff.org/)
 * Explore what else should come over from [ubuntu-dotfiles](https://github.com/dascentral/ubuntu-dotfiles)
