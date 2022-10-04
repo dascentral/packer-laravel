@@ -24,7 +24,7 @@
   command: rm -rf nginx/conf.d/.default.conf && rm -rf nginx/conf.d/no-ssl.default.conf
   args:
     chdir: /etc
-  ignore_errors: yes
+  ignore_errors: true
 
 - name: Add Nginx configuration
   copy:
