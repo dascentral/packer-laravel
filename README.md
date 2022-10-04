@@ -1,4 +1,5 @@
 # Laravel AMI
+
 This repository enables the automated creation of an AWS AMI running Ubuntu 22.04 LTS. The image is configured for the hosting of a Laravel application.
 
 The code here is heavily influenced by [Chris Fidao](https://fideloper.com/), who published a free series on Packer at [Cloudcasts.io](https://cloudcasts.io/course/a-packer-primer).
